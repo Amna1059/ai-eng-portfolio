@@ -3,3 +3,11 @@ uvicorn
 python-dotenv
 google-generativeai
 pydantic
+langchain
+langchain-community
+langchain-text-splitters
+langchain-google-genai
+chromadb
+pypdf
+python-docx
+unstructured
